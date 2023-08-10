@@ -1,16 +1,15 @@
-### Hi there 👋
+## Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px"/>
 
 <!--
-**joeljtomy/joeljtomy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔒 I'm a 
+- 📚 I've 
+- ✉️ How to reach me: Email/LinkedIn
+- ⚡ Not-so-fun fact: 
+- ⚡ Fun fact: 
 -->
+</br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joeljtomy&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true"/>\
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeljtomy&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
+
+## Tools
