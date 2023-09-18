@@ -1,10 +1,10 @@
 ## Hey there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="35px"/>
 
-<!--
-- 🔒 I'm a 
-- 📚 I've 
+
+- 🔒 I'm a Tech Admirer
+<!--- - 📚 I've  -->
 - ✉️ How to reach me: Email/LinkedIn
-- ⚡ Not-so-fun fact: 
+<!--- ⚡ Not-so-fun fact: 
 - ⚡ Fun fact: 
 
 </br>
