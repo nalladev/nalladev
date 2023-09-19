@@ -1,4 +1,4 @@
-## Hey there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="35px"/>
+## Hello! <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="35px"/>
 
 
 - 🔒 I'm a Tech Admirer
