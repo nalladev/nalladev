@@ -3,7 +3,7 @@
 
 - 🔒 I'm a Tech Admirer
 <!--- - 📚 I've  -->
-- ✉️ How to reach me: Email/LinkedIn
+- ✉️ How to reach me: LinkedIn: 
 <!--- ⚡ Not-so-fun fact: 
 - ⚡ Fun fact: 
 
