@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning ...
 - ✉️ How to reach me: LinkedIn
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljtomy)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljtomy&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
