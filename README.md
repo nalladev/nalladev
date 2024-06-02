@@ -4,7 +4,7 @@
 - ✉️ How to reach me: LinkedIn
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljtomy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljtomy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljtomy&layout=compact)
 
 <!--
 - 🔭 I’m currently working on ...
