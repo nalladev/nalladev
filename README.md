@@ -1,7 +1,9 @@
 ### Hello 👋 I'm Joel
 
+<!--
 - 🌱 I’m currently learning
 - ✉️ How to reach me: LinkedIn
+-->
 
 ![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeljtomy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joeljtomy&layout=compact)
