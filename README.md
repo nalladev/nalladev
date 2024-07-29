@@ -1,4 +1,4 @@
-### Hello 👋 I'm Joel
+### Hello 👋 
 
 <!--
 - 🌱 I’m currently learning
