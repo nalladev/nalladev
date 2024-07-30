@@ -10,31 +10,29 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 
 </br>
 
+![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&theme=transparent&hide_border=true&show_icons=true&rank_icon=github)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=transparent&hide_border=true&layout=compact&card_width=445")
+
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=nalladev&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true"/>\
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&theme=transparent&hide_border=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=transparent&hide_border=true&layout=compact&card_width=445")](https://github.com/anuraghazra/github-readme-stats)
-
 ## Tools
+[<img src="https://cdn.simpleicons.org/brave/" height="32" width="32" />](https://brave.com/)
+[<img src="https://cdn.simpleicons.org/vscodium/" height="32" width="32" />](https://vscodium.com/)
+[<img src="https://cdn.simpleicons.org/stackoverflow/" height="32" width="32" />](https://stackoverflow.com/)
+
+<!--
 <a href="https://system76.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/system76.svg"/></a>
-<a href="https://brave.com/"><img style="width: 40px; background: #FB542B; border-radius: 10px;" src="https://simpleicons.org/icons/brave.svg"/></a>
-<a href="https://vscodium.com/"><img style="width: 40px; background: #127bc7; border-radius: 10px;" src="https://simpleicons.org/icons/vscodium.svg"/></a>
-<a href="https://stackoverflow.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/stackoverflow.svg"/></a>
 <a href="https://bitcoin.org/"><img style="width: 40px; background: #F7931A; border-radius: 10px;" src="https://simpleicons.org/icons/bitcoin.svg"/></a>
 <a href="https://gimp.org/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/gimp.svg"/></a>
+-->
 
 <!--
 - 🌱 I’m currently learning
 - ✉️ How to reach me: LinkedIn
-
-
-![Joel's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&layout=compact)
-
 - 🔭 I’m currently working on ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
