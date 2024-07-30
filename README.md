@@ -15,9 +15,9 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=github_dark&title_color=26a0da&hide_border=true&custom_title=Most%20Used%20Languages&layout=compact&langs_count=10&card_width=445"/>
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&theme=github_dark&bg_color=00000000&hide_border=false&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&theme=transparent&hide_border=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=github_dark&bg_color=00000000&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=transparent&hide_border=true&layout=compact&card_width=445")](https://github.com/anuraghazra/github-readme-stats)
 
 ## Tools
 <a href="https://system76.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/system76.svg"/></a>
