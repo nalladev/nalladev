@@ -11,7 +11,7 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 ## Stats
 
 ![Joels's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&theme=transparent&hide_border=true&show_icons=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=transparent&hide_border=true&layout=compact&card_width=445)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&theme=transparent&hide_border=true&layout=compact&card_width=400)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=nalladev&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true"/>\
@@ -19,9 +19,10 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 -->
 
 ## Tools
-[<img src="https://cdn.simpleicons.org/brave/" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/vscodium/" height="40" width="40" />](https://vscodium.com/)
+[<img src="https://cdn.simpleicons.org/brave/" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/stackoverflow/" height="40" width="40" />](https://stackoverflow.com/)
+[<img src="https://cdn.simpleicons.org/telegram/" height="40" width="40" />](https://telegram.org/)
 
 <!--
 <a href="https://system76.com/"><img style="width: 40px; background: #ddd; border-radius: 10px;" src="https://simpleicons.org/icons/system76.svg"/></a>
