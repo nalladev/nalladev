@@ -25,7 +25,7 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 [<img src="https://cdn.simpleicons.org/vscodium" height="40" width="40" />](https://vscodium.com/)
 [<img src="https://cdn.simpleicons.org/brave" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/bitcoin" height="40" width="40" />](https://bitcoin.org)
-[<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org/)
+[<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org)
 
 <!--
 - 🌱 I’m currently learning
