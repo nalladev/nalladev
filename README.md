@@ -10,8 +10,8 @@ Scripting for 8 hours to automate a one-time 8 minute task <img src="https://med
 
 ## Stats
 <!--light mode-->
-[![Nalla Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&hide_border=true&card_width=350&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=350langs_count=10&layout=compact&#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Nalla Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&hide_border=true&card_width=320&show_icons=true&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=320langs_count=10&layout=compact&#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 <!--dark mode-->
 [![Nalla Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&hide_border=true&card_width=400&show_icons=true&rank_icon=github&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=350&layout=compact&langs_count=9&theme=github_dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
