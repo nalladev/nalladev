@@ -24,6 +24,7 @@
 [<img src="https://cdn.simpleicons.org/brave" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/bitcoin" height="40" width="40" />](https://bitcoin.org)
 [<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org)
+[<img src="https://cdn.simpleicons.org/protonvpn" height="40" width="40" />](https://protonvpn.com/)
 
 <!--
 - 🌱 I’m currently learning
