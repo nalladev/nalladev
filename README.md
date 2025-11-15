@@ -1,4 +1,4 @@
-## Hello <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px" width="30px"/>
+## Hi <img src="https://c.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" height="30px" width="30px"/>
 
 - 🔒 I'm a technology enthusiast and decentralizatioin advocate.
 - 📚 I've software development experience using React, Next.Js, Typescript & more.
