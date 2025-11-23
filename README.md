@@ -20,7 +20,7 @@
 -->
 
 ## Tools
-[<img src="https://cdn.simpleicons.org/vscodium" height="40" width="40" />](https://vscodium.com/)
+[<img src="https://cdn.simpleicons.org/zedindustries" height="40" width="40" />](https://zed.dev/)
 [<img src="https://cdn.simpleicons.org/brave" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/bitcoin" height="40" width="40" />](https://bitcoin.org)
 [<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org)
