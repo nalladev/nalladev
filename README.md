@@ -20,14 +20,12 @@
 -->
 
 ## Tools
-[<img src="https://cdn.simpleicons.org/zedindustries" height="40" width="40" />](https://zed.dev/)
+[<img src="https://cdn.simpleicons.org/popos" height="40" width="40" />](https://system76.com/pop/)
 [<img src="https://cdn.simpleicons.org/brave" height="40" width="40" />](https://brave.com/)
 [<img src="https://cdn.simpleicons.org/bitcoin" height="40" width="40" />](https://bitcoin.org)
 [<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org)
-[<img src="https://cdn.simpleicons.org/protonvpn" height="40" width="40" />](https://protonvpn.com/)
-<!--
-[<img src="https://cdn.simpleicons.org/obtainium" height="40" width="40" />](https://obtainium.imranr.dev/)
--->
+[<img src="https://cdn.simpleicons.org/zedindustries" height="40" width="40" />](https://zed.dev/)
+
 <!--
 - 🌱 I’m currently learning
 - ✉️ How to reach me: LinkedIn
