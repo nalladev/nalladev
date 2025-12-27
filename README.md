@@ -2,7 +2,7 @@
 
 - 🔒 I'm a technology enthusiast and decentralizatioin advocate.
 - 📚 I've software development experience using React, Next.Js, Typescript & more.
-- ✉️ How to reach me: Email
+- ✉️ How to reach me: [Create an issue here](https://github.com/nalladev/nalladev/issues)
 - ⚡ Not-so-fun fact: Windows 10 sends data to Microsoft [5000+ times per day](https://thehackernews.com/2016/02/microsoft-windows10-privacy.html), even when idle.
 - ⚡ Fun fact: There is only 21 Million bitcoins, but world population is 8 Billion.
 
