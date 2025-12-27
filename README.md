@@ -9,12 +9,12 @@
 ## Stats
 
 <!-- Light mode -->
-[![GitHub Stats — image unavailable](https://github-readme-stats.vercel.app/api?username=nalladev&hide_border=true&card_width=320&show_icons=true&rank_icon=github&cache_seconds=86400#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Languages — image unavailable](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=320&langs_count=10&layout=compact&cache_seconds=86400#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![GitHub Stats — image unavailable](https://readme-stats-fast.vercel.app/api?username=nalladev&hide_border=true&card_width=320&show_icons=true&rank_icon=github&cache_seconds=86400#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
+[![Top Languages — image unavailable](https://readme-stats-fast.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=320&langs_count=10&layout=compact&cache_seconds=86400#gh-light-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-light-mode-only)
 
 <!-- Dark mode -->
-[![GitHub Stats — image unavailable](https://github-readme-stats.vercel.app/api?username=nalladev&hide_border=true&card_width=400&show_icons=true&rank_icon=github&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Languages — image unavailable](https://github-readme-stats.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=350&layout=compact&langs_count=9&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![GitHub Stats — image unavailable](https://readme-stats-fast.vercel.app/api?username=nalladev&hide_border=true&card_width=400&show_icons=true&rank_icon=github&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
+[![Top Languages — image unavailable](https://readme-stats-fast.vercel.app/api/top-langs/?username=nalladev&hide_border=true&card_width=350&layout=compact&langs_count=9&theme=github_dark&cache_seconds=86400#gh-dark-mode-only)](https://github.com/pranesh-2005/github-readme-stats-fast#gh-dark-mode-only)
 
 <!--
 ![Nalla Dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=nalladev&include_all_commits=true&theme=github_dark&title_color=26a0da&icon_color=26a0da&hide_border=true&custom_title=Github%20Stats&show_icons=true")\
