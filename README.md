@@ -22,11 +22,9 @@
 -->
 
 ## Tools
-[<img src="https://cdn.simpleicons.org/popos" height="40" width="40" />](https://system76.com/pop/)
-[<img src="https://cdn.simpleicons.org/brave" height="40" width="40" />](https://brave.com/)
-[<img src="https://cdn.simpleicons.org/bitcoin" height="40" width="40" />](https://bitcoin.org)
-[<img src="https://cdn.simpleicons.org/telegram" height="40" width="40" />](https://telegram.org)
-[<img src="https://cdn.simpleicons.org/zedindustries" height="40" width="40" />](https://zed.dev/)
+<p>
+  <a href="https://system76.com/pop/"><img src="https://cdn.simpleicons.org/popos" width="40" hspace="6"/></a><a href="https://brave.com/"><img src="https://cdn.simpleicons.org/brave" width="40" hspace="6"/></a><a href="https://bitcoin.org"><img src="https://cdn.simpleicons.org/bitcoin" width="40" hspace="6"/></a><a href="https://telegram.org"><img src="https://cdn.simpleicons.org/telegram" width="40" hspace="6"/></a><a href="https://zed.dev/"><img src="https://cdn.simpleicons.org/zedindustries" width="40" hspace="6"/></a>
+</p>
 
 <!--
 - 🌱 I’m currently learning
